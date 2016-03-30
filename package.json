@@ -4,6 +4,7 @@
   "description": "An environment to develop a website with webpack.",
   "main": "",
   "scripts": {
+    "start": "webpack --watch -d --config webpack.config.dev.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
