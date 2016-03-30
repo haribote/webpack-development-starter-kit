@@ -1,0 +1,19 @@
+{
+  "name": "webpack-development-starter-kit",
+  "version": "1.0.0",
+  "description": "An environment to develop a website with webpack.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haribote/webpack-development-starter-kit.git"
+  },
+  "author": "KIMURA Tetsuro",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/haribote/webpack-development-starter-kit/issues"
+  },
+  "homepage": "https://github.com/haribote/webpack-development-starter-kit#readme"
+}
