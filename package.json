@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/haribote/webpack-development-starter-kit/issues"
   },
-  "homepage": "https://github.com/haribote/webpack-development-starter-kit#readme"
+  "homepage": "https://github.com/haribote/webpack-development-starter-kit#readme",
+  "devDependencies": {
+    "webpack": "^1.12.14"
+  }
 }
